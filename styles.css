@@ -9,3 +9,15 @@ header{height:112px;padding:0 6vw;display:flex;align-items:center;justify-conten
 @media(max-width:900px){.stage-grid,.date-grid{grid-template-columns:1fr}.family-filters{grid-template-columns:repeat(2,1fr)}.view-head{grid-template-columns:1fr;gap:13px}.stage-card{min-height:auto}.stage-card details{margin-top:20px}}
 @media(max-width:620px){body:before{inset:92px 0 0;background-size:auto min(58vh,430px)}header{height:78px;padding:0 20px}.header-logo img{height:47px;max-width:210px}.official-button{padding:10px 13px;font-size:10px}.hero{padding:36px 22px 38px}.hero h1{font-size:40px}.lead{font-size:15px}.steps{gap:4px}.step{font-size:10px}.step-line{width:14px}.view{padding:42px 22px 58px}.family-filters{grid-template-columns:1fr}.filter{min-height:62px}.result-card summary{grid-template-columns:8px 1fr auto;padding:16px 14px;gap:11px}.result-body{padding:16px}.results-meta{gap:12px;align-items:flex-start}.results-meta button{text-align:right}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.view,.stage-card,.filter,.official-button,.primary-button,.back{animation:none;transition:none}}
+
+/* Normalización editorial y acceso directo por familias */
+.view-head.compact{display:block}
+.family-filters{grid-template-columns:repeat(6,1fr);gap:12px}
+.filter{grid-column:span 2;min-height:92px;padding:16px 17px;font-size:12px}
+.filter:nth-child(n+4){grid-column:span 3}
+.area-tag{text-transform:none;letter-spacing:0;font-size:10px}
+.date-card{justify-content:flex-start}
+.date-card ul{padding-left:17px;margin:18px 0 0;color:var(--accent);font-weight:700;font-size:12px}
+.date-card li+li{margin-top:8px}
+@media(max-width:900px){.family-filters{grid-template-columns:repeat(2,1fr)}.filter,.filter:nth-child(n+4){grid-column:span 1}}
+@media(max-width:620px){.family-filters{grid-template-columns:1fr}.filter,.filter:nth-child(n+4){grid-column:span 1;min-height:68px}}
