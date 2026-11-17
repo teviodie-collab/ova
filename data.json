@@ -1,0 +1,437 @@
+{
+  "stages": [
+    {
+      "number": 1,
+      "title": "Curso Vocacional Común",
+      "paragraphs": [
+        "Es un espacio para que puedas reflexionar sobre tu elección de carrera y empezar a imaginar tu futuro profesional.",
+        "A lo largo del curso vas a poder",
+        "Duración mínima: 20 horas."
+      ],
+      "bullets": [
+        "Pensar sobre tus intereses, motivaciones y expectativas respecto de la carrera que elegiste.",
+        "Conocer mejor las distintas posibilidades que ofrece esa profesión y los ámbitos donde podrás trabajar.",
+        "Revisar algunas ideas o creencias que tenés sobre la carrera y el mundo laboral.",
+        "Desarrollar herramientas que te ayuden a organizarte, estudiar y aprender de manera cada vez más autónoma.",
+        "Conocer habilidades y recursos que te facilitarán el comienzo de la vida universitaria."
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Curso de Nivelación",
+      "paragraphs": [
+        "Es una instancia que te permitirá comenzar a prepararte para los contenidos y conocimientos que vas a necesitar en tu carrera.",
+        "En este curso vas a realizar actividades para",
+        "Cada facultad organiza su propio curso de nivelación. Por eso, los contenidos, las actividades, los tiempos de cursada y las evaluaciones varían según la carrera."
+      ],
+      "bullets": [
+        "Recuperar y fortalecer conocimientos que aprendiste en la escuela secundaria.",
+        "Desarrollar habilidades y herramientas necesarias para comenzar tu formación universitaria.",
+        "Familiarizarte con algunos de los contenidos y formas de trabajo propios de la carrera que elegiste."
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Ambientación Universitaria",
+      "paragraphs": [
+        "Es un espacio pensado para que conozcas cómo funciona la universidad y puedas desenvolverte con mayor confianza desde el comienzo.",
+        "A través de talleres y actividades vas a poder",
+        "El objetivo es que puedas sentirte parte de la universidad, conocer los recursos disponibles y contar con herramientas para iniciar tu recorrido académico."
+      ],
+      "bullets": [
+        "Conocer cómo se organiza la UNCUYO y cómo funciona la vida universitaria.",
+        "Informarte sobre tus derechos y responsabilidades como estudiante.",
+        "Descubrir los servicios y espacios que la universidad pone a tu disposición, como las bibliotecas y otros recursos de acompañamiento.",
+        "Obtener información y herramientas útiles para organizarte y transitar tus primeros pasos en la universidad."
+      ]
+    }
+  ],
+  "programs": [
+    {
+      "area": "CIENCIAS EXACTAS, NATURALES Y TECNOLÓGICAS",
+      "unit": "Instituto Tecnológico Universitario (ITU)",
+      "careers": "Carreras de Pregrado Desarrollo de Software",
+      "modules": [
+        "Comprensión Lectora",
+        "Matemática",
+        "Pensamiento creativo",
+        "Introducción a la programación"
+      ]
+    },
+    {
+      "area": "CIENCIAS EXACTAS, NATURALES Y TECNOLÓGICAS",
+      "unit": "Instituto Tecnológico Universitario (ITU)",
+      "careers": "Gestión de Empresas",
+      "modules": [
+        "Comprensión Lectora",
+        "Matemática",
+        "Pensamiento Lógico y Computacional",
+        "Principios básicos de contabilidad"
+      ]
+    },
+    {
+      "area": "CIENCIAS EXACTAS, NATURALES Y TECNOLÓGICAS",
+      "unit": "Instituto Tecnológico Universitario (ITU)",
+      "careers": "Logística y Transporte",
+      "modules": [
+        "Comprensión Lectora",
+        "Matemática",
+        "Pensamiento Lógico y Computacional",
+        "Principios básicos de contabilidad"
+      ]
+    },
+    {
+      "area": "CIENCIAS EXACTAS, NATURALES Y TECNOLÓGICAS",
+      "unit": "Instituto Tecnológico Universitario (ITU)",
+      "careers": "Marketing",
+      "modules": [
+        "Comprensión Lectora",
+        "Matemática",
+        "Pensamiento creativo",
+        "Pensamiento Lógico y Computacional"
+      ]
+    },
+    {
+      "area": "CIENCIAS EXACTAS, NATURALES Y TECNOLÓGICAS",
+      "unit": "Instituto Tecnológico Universitario (ITU)",
+      "careers": "Mantenimiento e Instalaciones Industriales",
+      "modules": [
+        "Comprensión Lectora",
+        "Matemática",
+        "Pensamiento Lógico y Computacional",
+        "Introducción a la Física"
+      ]
+    },
+    {
+      "area": "CIENCIAS EXACTAS, NATURALES Y TECNOLÓGICAS",
+      "unit": "Instituto Tecnológico Universitario (ITU)",
+      "careers": "Producción Industrial y Automatización",
+      "modules": [
+        "Comprensión Lectora",
+        "Matemática",
+        "Pensamiento Lógico y Computacional",
+        "Introducción a la Física"
+      ]
+    },
+    {
+      "area": "CIENCIAS EXACTAS, NATURALES Y TECNOLÓGICAS",
+      "unit": "Instituto Tecnológico Universitario (ITU)",
+      "careers": "Redes de Datos y Telecomunicaciones",
+      "modules": [
+        "Comprensión Lectora",
+        "Matemática",
+        "Pensamiento Lógico y Computacional",
+        "Introducción a la Física"
+      ]
+    },
+    {
+      "area": "CIENCIAS EXACTAS, NATURALES Y TECNOLÓGICAS",
+      "unit": "Instituto Tecnológico Universitario (ITU)",
+      "careers": "Higiene y Seguridad en el Trabajo",
+      "modules": [
+        "Comprensión Lectora",
+        "Matemática",
+        "Pensamiento Lógico y Computacional",
+        "Introducción a la Física"
+      ]
+    },
+    {
+      "area": "CIENCIAS EXACTAS, NATURALES Y TECNOLÓGICAS",
+      "unit": "Instituto Tecnológico Universitario (ITU)",
+      "careers": "Electricidad y Sistemas de Control Industriales",
+      "modules": [
+        "Comprensión Lectora",
+        "Matemática",
+        "Pensamiento Lógico y Computacional",
+        "Introducción a la Física"
+      ]
+    },
+    {
+      "area": "CIENCIAS EXACTAS, NATURALES Y TECNOLÓGICAS",
+      "unit": "Instituto Tecnológico Universitario (ITU)",
+      "careers": "Ciencia de Datos",
+      "modules": [
+        "Comprensión Lectora",
+        "Matemática",
+        "Introducción a Python",
+        "Estadística"
+      ]
+    },
+    {
+      "area": "CIENCIAS EXACTAS, NATURALES Y TECNOLÓGICAS",
+      "unit": "Facultad de Ingeniería",
+      "careers": "Carreras de grado Ingenieria en Petroleo",
+      "modules": [
+        "Comprensión Lectora y Resolución de Problemas",
+        "Introducción a la Matemática",
+        "Matemática",
+        "Física"
+      ]
+    },
+    {
+      "area": "CIENCIAS EXACTAS, NATURALES Y TECNOLÓGICAS",
+      "unit": "Facultad de Ingeniería",
+      "careers": "Ingeniería Civil",
+      "modules": [
+        "Comprensión Lectora y Resolución de Problemas",
+        "Introducción a la Matemática",
+        "Matemática",
+        "Física."
+      ]
+    },
+    {
+      "area": "CIENCIAS EXACTAS, NATURALES Y TECNOLÓGICAS",
+      "unit": "Facultad de Ingeniería",
+      "careers": "Ingeniería Industrial",
+      "modules": [
+        "Comprensión Lectora y Resolución de Problemas",
+        "Matemática",
+        "Física."
+      ]
+    },
+    {
+      "area": "CIENCIAS EXACTAS, NATURALES Y TECNOLÓGICAS",
+      "unit": "Facultad de Ingeniería",
+      "careers": "Ingeniería Mecatrónica",
+      "modules": [
+        "Comprensión Lectora y Resolución de Problemas",
+        "Matemática",
+        "Física",
+        "Introducción a la Mecatrónica."
+      ]
+    },
+    {
+      "area": "CIENCIAS EXACTAS, NATURALES Y TECNOLÓGICAS",
+      "unit": "Facultad de Ingeniería",
+      "careers": "Arquitectura",
+      "modules": [
+        "Comprensión Lectora y Resolución de Problemas",
+        "Matemática",
+        "Física",
+        "Introducción a la Arquitectura."
+      ]
+    },
+    {
+      "area": "CIENCIAS EXACTAS, NATURALES Y TECNOLÓGICAS",
+      "unit": "Facultad de Ingeniería",
+      "careers": "Licenciatura en Ciencias de la Computación",
+      "modules": [
+        "Comprensión Lectora y Resolución de Problemas",
+        "Matemática",
+        "Introducción a la Computación"
+      ]
+    },
+    {
+      "area": "CIENCIAS EXACTAS, NATURALES Y TECNOLÓGICAS",
+      "unit": "Facultad de Ciencias Aplicadas a la Industria",
+      "careers": "Carreras de Grado Ingeniería en Alimentos - Título Intermedio: Técnico/a Universitario en Química Ingeniería Química - Título Intermedio: Técnico/a Universitario en Química Ingeniería Mecánica - Título Intermedio: Técnico/a Universitario en Mecánica Profesorado Universitario en Química Carreras de Pregrado Tecnicatura Universitaria en Enología y Viticultura Tecnicatura Universitaria en Operaciones Mineras Bromatología",
+      "modules": [
+        "Comprensión Lectora",
+        "Química",
+        "Matemática."
+      ]
+    },
+    {
+      "area": "CIENCIAS EXACTAS, NATURALES Y TECNOLÓGICAS",
+      "unit": "Facultad de Ciencias Exactas y Naturales",
+      "careers": "Carreras de grado Licenciatura en Ciencias Básicas Profesorado de Grado Universitario en Ciencias Básicas Licenciatura en Geología",
+      "modules": [
+        "Comprensión de Textos",
+        "Biología",
+        "Física",
+        "Matemática",
+        "Química."
+      ]
+    },
+    {
+      "area": "CIENCIAS EXACTAS, NATURALES Y TECNOLÓGICAS",
+      "unit": "Facultad de Ciencias Agrarias",
+      "careers": "Carreras de grado Ingeniería Agronómica Ingeniería en Recursos Naturales Renovables Licenciatura en Bromatología Carreras de pregrado Tecnicatura Universitaria en Enología y Viticultura Bromatología",
+      "modules": [
+        "Biología",
+        "Química",
+        "Matemática"
+      ]
+    },
+    {
+      "area": "Ciencias Sociales y Humanas",
+      "unit": "Facultad de Ciencias Políticas y Sociales",
+      "careers": "Carreras de Grado Licenciatura en Ciencia Política y Administración Pública Licenciatura en Sociología Licenciatura en Trabajo Social Licenciatura en Comunicación Social Licenciatura en Gestión y Administración Universitaria Carreras de pregrado Tecnicatura en Gestión Universitaria Tecnicatura Universitaria en Producción Audiovisual Tecnicatura Universitaria en Gestión y Administración en Instituciones Públicas Tecnicatura Universitaria en Gestión de Políticas Públicas",
+      "modules": [
+        "Taller de Lectura, Escritura y Oralidad (TLEO)",
+        "Construyendo Miradas (conceptos fundamentales y perspectivas de cada disciplina)"
+      ]
+    },
+    {
+      "area": "Ciencias Sociales y Humanas",
+      "unit": "Facultad de Educación",
+      "careers": "Carreras de Grado Profesorado Universitario de Educación Primaria Profesorado Universitario de Educación Inicial Profesorado Universitario de Educación para Trabajar con Personas Sordas Profesorado Universitario de Pedagogía Terapéutica en Discapacidad Intelectual. Orientación Discapacidad Motora Profesorado Universitario de Pedagogía Terapéutica en Discapacidad Visual Licenciatura en Terapia del Lenguaje Carreras de pregrado Tecnicatura Universitaria en Educación Social",
+      "modules": [
+        "Comprensión y Producción de textos",
+        "Resolución de Problemas"
+      ]
+    },
+    {
+      "area": "Ciencias Sociales y Humanas",
+      "unit": "Facultad de Educación",
+      "careers": "Tecnicatura en Interpretación de Lengua de Señas",
+      "modules": [
+        "Comprensión y Producción de textos",
+        "Resolución de Problemas",
+        "Taller de Lengua de señas"
+      ]
+    },
+    {
+      "area": "Ciencias Sociales y Humanas",
+      "unit": "Facultad de Filosofía y Letras",
+      "careers": "Carreras de Grado Geógrafo/a Licenciatura en Arqueología Licenciatura en Ciencias de la Educación Licenciatura en Filología Inglesa Licenciatura en Filosofía Licenciatura en Francés Licenciatura en Geografía Licenciatura en Historia Licenciatura en Letras Licenciatura en Turismo Profesorado de Grado Universitario en Portugués Profesorado Universitario en Ciencias de la Educación Profesorado Universitario en Filosofía Profesorado Universitario en Geografía Profesorado Universitario en Historia Profesorado Universitario en Lengua Inglesa Profesorado Universitario en Lengua y Literatura Francesas Profesorado Universitario en Letras Carreras de pregrado Tecnicatura Universitaria en Francés Tecnicatura Universitaria en Geotecnologías Traductorado Público en Inglés",
+      "modules": [
+        "Taller de Moodle para estudiantes (virtual)",
+        "Taller de Introducción a la Escritura y Lectura Universitarias (presencial)",
+        "Alfabetización disciplinar (presencial)"
+      ]
+    },
+    {
+      "area": "Ciencias de la Salud",
+      "unit": "Facultad de Ciencias Médicas",
+      "careers": "Carreras de grado Medicina",
+      "modules": [
+        "Química",
+        "Física",
+        "Biología General y Humana."
+      ]
+    },
+    {
+      "area": "Ciencias de la Salud",
+      "unit": "Facultad de Ciencias Médicas",
+      "careers": "Licenciatura en enfermería",
+      "modules": [
+        "Matemática",
+        "Comprensión Lectora",
+        "Biología General y Humana"
+      ]
+    },
+    {
+      "area": "Ciencias de la Salud",
+      "unit": "Facultad de Ciencias Médicas",
+      "careers": "Tecnicaturas Asistenciales en Salud - Carreras de pregrado Tecnicatura Universitaria en Anestesia Tecnicatura Universitaria en Diagnóstico por Imágenes Tecnicatura Universitaria en Laboratorio Tecnicatura Universitaria en Quirófano",
+      "modules": [
+        "Matemática",
+        "Comprensión Lectora",
+        "Biología General y Humana."
+      ]
+    },
+    {
+      "area": "Ciencias de la Salud",
+      "unit": "Facultad de Odontología",
+      "careers": "Carreras de grado Odontología",
+      "modules": [
+        "Biología General y Humana",
+        "Física",
+        "Química."
+      ]
+    },
+    {
+      "area": "Artes y Diseño",
+      "unit": "Facultad de Artes y Diseño",
+      "careers": "Carreras de grado: Artes del Espectáculo Diseño Escenográfico. Licenciatura en Arte Dramático. Profesorado de Grado Universitario de Teatro. Artes Visuales Licenciatura en Artes Plásticas. Licenciatura en Historia de las Artes Plásticas. Profesorado de Grado Universitario en Artes Visuales. Profesorado de Grado Universitario en Historia del Arte. Cerámica Licenciatura en Cerámica Artística. Licenciatura en Cerámica Industrial. Profesorado de Grado Universitario en Cerámica Artística. Diseño Diseño Gráfico. Diseño Industrial. Música Licenciatura en Canto, Composición Musical, Dirección Coral o Instrumento (Órgano, Piano, Guitarra, Violín, Viola, Violonchelo, Contrabajo, Arpa, Flauta, Oboe, Clarinete, Fagot, Saxofón, Trompa, Trompeta, Corno, Trombón o Percusión). Licenciatura en Música Popular (orientaciones: Guitarra, Teclados, Canto, Vientos o Percusión). Profesorado de Grado Universitario de Música. Profesorado de Grado Universitario de Teorías Musicales. Carrera de pregrado: Tecnicatura Universitaria en Producción Audiovisual (TUPA - Cogestionada con FCPYS).",
+      "modules": [
+        "Taller de comprensión de textos (todas las carreras)",
+        "Taller específico por grupo de carreras ARTES DEL ESPECTÁCULO “Práctica escénica y técnicas vocales” DISEÑO ESCENOGRÁFICO “Introducción a la escenografía y dibujo” ARTES VISUALES “Producción y experimentación plástica” LICENCIADO EN HISTORIA DE LAS ARTES PLÁSTICAS y PROFESORADO DE GRADO UNIVERSITARIO DE HISTORIA DEL ARTE “Introducción a la historia de las artes” CERÁMICA “Dibujo, modelado y procesos creativos, técnica y tecnología” DISEÑO INDUSTRIAL Y GRÁFICO “Introducción al diseño Gráfico e Industrial” MÚSICA “Trayecto específico Música: Audioperceptiva y Espacio diferenciado según carrera” Ciclo Introductorio de Estudios Musicales (CIEMU), todos los aspirantes inician su recorrido por este ciclo para valorar sus conocimientos.",
+        "ARTES DEL ESPECTÁCULO “Práctica escénica y técnicas vocales”",
+        "DISEÑO ESCENOGRÁFICO “Introducción a la escenografía y dibujo”",
+        "ARTES VISUALES “Producción y experimentación plástica”",
+        "LICENCIADO EN HISTORIA DE LAS ARTES PLÁSTICAS y PROFESORADO DE GRADO UNIVERSITARIO DE HISTORIA DEL ARTE “Introducción a la historia de las artes”",
+        "CERÁMICA “Dibujo, modelado y procesos creativos, técnica y tecnología”",
+        "DISEÑO INDUSTRIAL Y GRÁFICO “Introducción al diseño Gráfico e Industrial”",
+        "MÚSICA “Trayecto específico Música: Audioperceptiva y Espacio diferenciado según carrera”",
+        "Ciclo Introductorio de Estudios Musicales (CIEMU), todos los aspirantes inician su recorrido por este ciclo para valorar sus conocimientos."
+      ]
+    },
+    {
+      "area": "Ciencias Económicas, Jurídicas y de Seguridad",
+      "unit": "Facultad de Ciencias Económicas",
+      "careers": "Carreras de grado Contador Público Licenciatura en Economía Licenciatura en Administración Licenciatura en Logística (modalidad a distancia).",
+      "modules": [
+        "Matemática",
+        "Comprensión Lectora",
+        "Resolución de Problemas",
+        "Sistemas de información para la gestión."
+      ]
+    },
+    {
+      "area": "Ciencias Económicas, Jurídicas y de Seguridad",
+      "unit": "Facultad de Derecho",
+      "careers": "Carrera de grado Abogacía",
+      "modules": [
+        "Lenguaje y Derecho",
+        "Ética",
+        "Introducción al Derecho."
+      ]
+    },
+    {
+      "area": "Ciencias Económicas, Jurídicas y de Seguridad",
+      "unit": "Instituto Universitario de Seguridad Pública",
+      "careers": "Carreras de pregrado Tecnicatura Universitaria en Seguridad Pública Tecnicatura Universitaria en Seguridad Penitenciaria",
+      "modules": [
+        "Evaluación de Conocimiento General",
+        "Evaluación de Interpretación de Textos",
+        "Evaluación de Capacidades Físicas Básicas, Técnicas Grupales Psicológicas para determinar las Habilidades para el Aprendizaje."
+      ]
+    }
+  ],
+  "dates": [
+    {
+      "unit": "Facultad de Derecho",
+      "period": "- Modalidad extensiva: febrero. - Modalidad intensiva: septiembre. - Modalidad libre: octubre."
+    },
+    {
+      "unit": "Facultad de Ingeniería",
+      "period": "- Primera instancia: mayo. - Segunda instancia: julio. - Modalidad libre: noviembre."
+    },
+    {
+      "unit": "Facultad de Ciencias Aplicadas a la Industria (San Rafael)",
+      "period": "- Primera instancia: junio. - Segunda instancia: febrero del año siguiente."
+    },
+    {
+      "unit": "Facultad de Ciencias Económicas",
+      "period": "- Modalidad extensiva: junio y julio. - Modalidad intensiva: septiembre. - Modalidad libre: octubre."
+    },
+    {
+      "unit": "Facultad de Ciencias Médicas",
+      "period": "- Inscripción única: junio y julio."
+    },
+    {
+      "unit": "Facultad de Odontología",
+      "period": "- Inscripción única: agosto."
+    },
+    {
+      "unit": "Instituto Universitario de Seguridad Pública (IUSP)",
+      "period": "- Tecnicaturas en Seguridad Pública y Penitenciaria: agosto."
+    },
+    {
+      "unit": "Facultad de Educación",
+      "period": "- Inscripción única: agosto y septiembre."
+    },
+    {
+      "unit": "Facultad de Ciencias Políticas y Sociales",
+      "period": "- Inscripción única: septiembre y octubre. - Carrera TUPA: septiembre y octubre."
+    },
+    {
+      "unit": "Facultad de Ciencias Exactas y Naturales",
+      "period": "- Ingreso al segundo semestre: julio. - Ingreso al primer semestre del año siguiente: febrero y marzo."
+    },
+    {
+      "unit": "Facultad de Ciencias Agrarias",
+      "period": "- Primera instancia: agosto y septiembre. - Segunda instancia: octubre y noviembre."
+    },
+    {
+      "unit": "Facultad de Filosofía y Letras",
+      "period": "- Inscripción: septiembre, octubre y noviembre."
+    },
+    {
+      "unit": "Facultad de Artes y Diseño",
+      "period": "- Inscripción: septiembre y octubre."
+    }
+  ]
+}
